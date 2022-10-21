@@ -6,3 +6,5 @@
 * 10/16/2022 - Revised concepts - Newton's Method, Projective Dynamics; Resumed PBD
 * 10/17/2022 - Continued PBD and preoccupied with coursework
 * 10/18/2022 - Familiarizing with code of ARCParticle-Sim
+* 10/19/2022 - coursework
+* 10/20/2022 - Completed review and understanding IPC and PBD (code and paper)
