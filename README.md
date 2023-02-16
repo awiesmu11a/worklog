@@ -1,18 +1,15 @@
-# worklog
-* 10/12/2022 - coursework
-* 10/13/2022 - coursework
-* 10/14/2022 - tried setting windows working environment
-* 10/15/2022 - set up ubuntu and start test with IPC script
-* 10/16/2022 - Revised concepts - Newton's Method, Projective Dynamics; Resumed PBD
-* 10/17/2022 - Continued PBD and preoccupied with coursework
-* 10/18/2022 - Familiarizing with code of ARCParticle-Sim
-* 10/19/2022 - coursework
-* 10/20/2022 - Completed review and understanding IPC and PBD (code and paper)
+# ECE299 worklog
 
-* 11/22/2022 - Went through orirginal IPC code for Hessian computation, Neohookean energy
-* 11/23/2022 - Looked for different for Hessian computation
-* 11/24/2022 - Coursework
-* 11/25/2022 - Coursework
-* 11/26/2022 - pseudocode for energy evaluation in IPC
-* 11/27/2022 - Added energy evaluation to IPC
-* 11/28/2022 - pseudocode for update step in IPC
+The goal is to integrate the [IPC (Incremental Potential Contact)]{https://ipc-sim.github.io/} model with existing [PBD (Position Based Dynamics)]{https://github.com/ucsdarclab/ARCParticleSim} model for simulation of basic surgical task (grabbing etc).
+
+## Fall 2022
+
+Studied relevant papers given by Fei. Started studying the paper on IPC and PBD along with going through and playing around with the existing scripts. I was completely new to using C++ and working on designing the simulation for the first this process took most of the time.
+
+## Spring 2023
+
+Integrated a brute force algorithm of IPC in along the PBD script as shown below:
+
+'
+test
+'
