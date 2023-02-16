@@ -145,5 +145,8 @@ One approach to debug would be to run the IPC algorithm when objects are about c
 Latest update: Was trying to import a pre-existing rendered tool to the simulation
 Problem: Did not find a tool which has appropriate mesh size to import and run the simulation.
 
-### Current
+### Latest
 Now I decided to start from basic problem and see if above implementation is correct or not. Will implement the IPC on simpler objects like a plane and point. 
+
+### Current
+Debugging above script
