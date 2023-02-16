@@ -9,6 +9,6 @@ Studied relevant papers given by Fei. Started studying the paper on IPC and PBD 
 ## Spring 2023
 
 Integrated a brute force algorithm of IPC in along the PBD script as shown below:
-''''
+'''
 test
-''''
+'''
