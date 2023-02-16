@@ -9,7 +9,7 @@ Studied relevant papers given by Fei. Started studying the paper on IPC and PBD 
 ## Spring 2023
 
 Integrated a brute force algorithm of IPC in along the PBD script as shown below:
-```gcc
+```cpp
 \\ Initialized the wound and a cylinder as a tool
 \\ Loop {
 \\ Run PBD (existing code) to estimate the next pose
